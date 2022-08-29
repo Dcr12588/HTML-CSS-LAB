@@ -1,0 +1,57 @@
+header {
+    background-color: lightgray;
+    height: 10vh;
+    margin: auto 0;
+    text-indent: 40px;
+}
+
+h1 {
+    margin: 0;
+}
+
+button {
+    background-color: transparent;
+    border-color: transparent;
+    align-self: center;
+}
+
+h2 {
+text-align: center;
+background-color: lightgray;
+margin: 10px 650px 10px 650px;
+border-radius: 8px;
+padding: 60px 40px 60px 40px;
+}
+
+p {
+    background-color: lightgray;
+    margin: 40px;
+}
+
+h3 {
+    text-decoration: underline;
+    font-size: large; 
+    margin: 40px 40px 40px 40px;
+}
+h4 {
+    text-decoration: underline;
+    font-size: large;
+    margin: 40px 40px;
+}
+h5 {
+    text-decoration: underline;
+    font-size: large;
+    margin: 40px 40px;
+}
+h6 {
+    text-decoration: underline;
+    font-size: large;
+    margin: 40px 40px;
+}
+
+body {
+background-color: lightgrey;
+border: 40px;
+font-family: italiana;
+padding: 100px white
+}
